@@ -1,6 +1,6 @@
 # Tosh System
 
-A fluxbox style inspired by classic macos. ⚠️ Work in progress! Working on a script to automate color choice and modify other files. Possibly expand to configuring a linux (probably) minimal install.
+A fluxbox style inspired by classic macos. ⚠️ Work in progress! Working on a script to automate color choice and modify other files. Possibly expand to configuring a linux (probably debian) minimal install.
 
 ![Screenshot of style in use.](/screenshots/tosh-system-screenshot.png)
 
